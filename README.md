@@ -1,2 +1,2 @@
-# Ciencia-de-Datos-y-Analisis-Exploratorio
-Este repo contiene proyectos de análisis exploratorio de datos con Python.
+# Ciencia y Análisis de Datos
+Este repo contiene proyectos de análisis de datos con Python.
