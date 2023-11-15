@@ -20,6 +20,10 @@ The script will fetch earthquake data from the specified USGS URL.
 It will print earthquake details, save them to a CSV file named "respuestaSismos.csv," and generate a histogram of earthquake magnitudes.
 
 
+# Código de Análisis de Datos Sísmicos
+
+Este script en Python obtiene datos sísmicos del sitio web del USGS (Servicio Geológico de los Estados Unidos), procesa los datos y proporciona varios análisis, incluyendo la impresión de detalles de los terremotos, guardando los datos en un archivo CSV y generando un histograma de las magnitudes de los terremotos.
+
 ## Instrucciones:
 
 ### Dependencias:
@@ -36,6 +40,3 @@ Ejecuta el script earthquake_analysis.py en un entorno de Python.
 
 ### Salida:
 
-## Código de Análisis de Datos Sísmicos
-
-Este script en Python obtiene datos sísmicos del sitio web del USGS (Servicio Geológico de los Estados Unidos), procesa los datos y proporciona varios análisis, incluyendo la impresión de detalles de los terremotos, guardando los datos en un archivo CSV y generando un histograma de las magnitudes de los terremotos.
