@@ -9,7 +9,7 @@ Ensure you have Python installed on your system.
 Install the required Python libraries using the following command:
 bash
 Copy code
-pip install urllib3 json csv matplotlib
+pip install urllib3 json csv matplotlib.
 
 ### Running the Script:
 
