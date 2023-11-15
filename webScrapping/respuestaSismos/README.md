@@ -10,9 +10,10 @@ Install the required Python libraries using the following command:
 bash
 Copy code
 pip install urllib3 json csv matplotlib
-###Running the Script:
 
-Execute the script earthquake_analysis.py in a Python environment.
+### Running the Script:
+
+Execute the script respuestaSismos.ipynb in a Python environment.
 
 ### Output:
 
@@ -36,7 +37,10 @@ pip install urllib3 json csv matplotlib
 
 ### Ejecutar el Script:
 
-Ejecuta el script earthquake_analysis.py en un entorno de Python.
+Ejecuta el script respuestaSismos.ipynb en un entorno de Python.
 
 ### Salida:
+
+El script obtendrá datos de terremotos de la URL USGS especificada.
+Imprimirá los detalles de los terremotos, los guardará en un archivo CSV llamado "respuestaSismos.csv" y generará un histograma de las magnitudes de los terremotos.
 
